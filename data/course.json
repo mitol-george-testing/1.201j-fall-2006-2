@@ -1,0 +1,31 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies",
+      "Transportation Planning"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b3cd201d-274d-7ed0-a6aa-9f8653210e5e",
+      "f7fa0801-6ff6-9926-9da1-49c325b4a5b1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Transportation Systems",
+  "course_description": "1.201J/11.545J/ESD.210J is required for all first-year Master of Science in Transportation students. It would be of interest to, as well as accessible to, students in Urban Studies and Planning, Political Science, Technology and Policy, Management, and various engineering departments. It is a good subject for those who plan to take only one subject in transportation and serves as an entry point to other transportation subjects as well.\n\nThe subject focuses on fundamental principles of transportation systems, introduces transportation systems components and networks, and addresses how one invests in and operates them effectively. The tie between transportation and related systems is emphasized.\n",
+  "department_numbers": [
+    "1",
+    "11",
+    "ESD"
+  ],
+  "extra_course_numbers": "11.545J,ESD.210J",
+  "primary_course_number": "1.201J",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
